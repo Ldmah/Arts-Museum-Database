@@ -17,10 +17,12 @@ To run the application created in this repository, please follow the following s
 Usernames and passwords are required to test the data entry and admin roles. Below are the credentials for each role. Note that the user can also use the username "root" and the localhost password to sign into these roles.
 
 #### Admin Information
-Username: "db_admin"; Password: "adminpass"
+- Username: db_admin
+- Password: "adminpass"
 
 #### Data Entry Information
-Username: "data_entry"; Password: "dataentrypass"
+- Username: data_entry
+- Password: dataentrypass
 
 ### Credits
 This project was created as a group final project for "ENSF 300 Software Engineering Practices for Data Management" under the Department of Electrical and Software Engineering at the University of Calgary. The project was created by: Liam Mah, Theodore Hoang, Eric Mei, and Lionel Hasan.
